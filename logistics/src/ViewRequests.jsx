@@ -1,4 +1,3 @@
-import React from "react";
 import "./ViewRequests.css";
 
 const mockRequests = [

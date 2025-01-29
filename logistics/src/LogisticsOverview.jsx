@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./LogisticsOverview.css";
 
 const LogisticsOverview = () => {
